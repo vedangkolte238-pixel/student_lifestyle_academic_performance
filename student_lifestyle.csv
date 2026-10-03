@@ -1,0 +1,101 @@
+Student_ID,Gender,Study_Hours,Sleep_Hours,Screen_Time,Attendance,Social_Time,Previous_Score,Academic_Score,Lifestyle
+1,Female,5.2,5.6,5.1,73.7,0.6,79.1,63.9,Moderate
+2,Male,4.3,6.6,5.5,76.4,1.8,90.9,54.7,Moderate
+3,Male,5.5,6.7,6.4,89.5,2.5,51.2,62.5,Needs Improvement
+4,Male,6.8,6.2,6.4,88.1,2.6,74.8,73.6,Needs Improvement
+5,Female,4.1,6.8,2.0,81.8,2.0,60.2,62.0,Moderate
+6,Male,4.1,7.4,2.8,83.2,3.2,62.2,68.9,Moderate
+7,Female,6.9,8.9,5.4,94.8,1.2,60.9,69.5,Moderate
+8,Male,5.7,7.2,5.4,76.1,2.3,57.6,53.5,Moderate
+9,Female,3.8,7.3,5.4,87.5,2.6,68.6,47.5,Moderate
+10,Male,5.3,6.9,10.0,80.0,3.1,58.0,58.9,Needs Improvement
+11,Male,3.8,5.1,5.5,79.8,3.4,71.2,53.9,Needs Improvement
+12,Female,3.8,7.0,6.5,93.0,1.2,67.4,56.0,Needs Improvement
+13,Female,4.9,7.1,6.2,90.3,0.7,65.1,62.1,Needs Improvement
+14,Male,1.6,9.5,5.7,90.1,4.0,57.1,42.8,Moderate
+15,Female,1.9,6.8,3.9,95.1,2.9,61.1,62.2,Moderate
+16,Male,3.7,7.3,5.9,82.2,1.6,77.1,56.9,Moderate
+17,Female,3.0,7.0,3.1,88.8,4.4,74.0,56.5,Moderate
+18,Female,5.0,5.8,4.1,78.9,2.6,56.3,60.3,Moderate
+19,Male,3.1,8.1,3.6,85.2,3.9,69.2,59.0,Moderate
+20,Male,2.4,7.8,4.6,80.7,2.6,77.0,53.7,Moderate
+21,Male,6.7,7.8,8.7,83.0,5.0,48.0,54.4,Needs Improvement
+22,Male,4.2,6.1,1.1,88.0,4.6,74.5,64.4,Moderate
+23,Female,4.6,8.4,5.7,73.8,2.2,60.0,66.5,Moderate
+24,Male,2.4,5.6,1.6,100.0,3.7,74.8,63.0,Moderate
+25,Male,3.7,7.6,3.7,71.9,3.3,58.8,61.5,Moderate
+26,Female,4.7,9.2,6.5,69.9,4.1,46.3,50.5,Needs Improvement
+27,Female,2.8,6.0,4.6,93.6,1.3,48.5,44.7,Moderate
+28,Male,5.1,6.4,2.6,89.9,3.3,68.6,63.9,Moderate
+29,Male,3.6,7.1,3.2,88.2,3.8,71.1,58.7,Moderate
+30,Male,4.1,6.5,5.7,88.3,0.5,57.1,60.8,Moderate
+31,Male,3.6,5.4,3.2,81.9,1.1,75.7,48.3,Needs Improvement
+32,Female,7.3,7.1,4.9,73.0,0.5,48.1,73.7,Moderate
+33,Male,4.5,5.9,4.6,82.8,2.2,67.2,56.4,Moderate
+34,Female,2.9,7.5,3.3,75.2,3.4,53.5,48.1,Moderate
+35,Male,5.7,6.1,8.4,91.8,4.3,60.2,51.2,Needs Improvement
+36,Female,2.7,8.5,5.6,80.5,2.6,68.6,43.9,Moderate
+37,Female,4.8,6.2,1.0,73.7,4.5,57.7,63.3,Moderate
+38,Female,1.6,6.7,4.8,78.8,0.8,63.4,45.6,Moderate
+39,Male,2.5,7.8,3.3,86.1,0.5,80.1,51.9,Moderate
+40,Male,4.8,5.8,6.0,76.4,2.4,61.1,46.8,Needs Improvement
+41,Male,5.6,7.2,3.1,73.8,3.0,78.0,64.2,Moderate
+42,Female,4.8,8.3,4.3,84.4,2.5,54.4,69.2,Moderate
+43,Female,4.3,5.4,5.4,84.4,0.5,74.4,55.8,Needs Improvement
+44,Female,4.0,7.2,6.1,76.9,2.4,85.3,49.7,Needs Improvement
+45,Female,2.3,7.3,2.3,77.3,0.9,38.3,46.9,Moderate
+46,Female,3.4,7.8,3.9,84.3,3.3,58.4,53.7,Moderate
+47,Male,3.8,5.8,3.6,67.5,2.9,74.9,39.5,Moderate
+48,Female,6.1,5.7,3.3,67.9,1.4,65.6,62.1,Moderate
+49,Male,5.0,7.5,7.7,74.8,1.9,72.5,55.9,Needs Improvement
+50,Male,1.9,7.3,5.2,79.9,1.2,60.8,50.0,Moderate
+51,Male,5.0,7.3,2.2,85.1,2.4,69.0,75.1,Moderate
+52,Male,3.9,7.3,6.2,96.8,3.6,66.1,62.5,Needs Improvement
+53,Male,3.5,6.3,8.3,90.6,1.3,82.0,51.7,Needs Improvement
+54,Female,5.4,7.2,6.4,80.4,3.1,71.1,54.8,Needs Improvement
+55,Male,6.0,7.3,1.8,81.8,1.9,72.1,84.2,Healthy
+56,Female,5.9,6.3,3.6,72.0,1.5,63.1,62.8,Moderate
+57,Male,3.2,8.9,6.8,81.8,2.4,62.1,52.7,Needs Improvement
+58,Male,4.0,7.5,3.2,79.1,1.3,62.8,59.0,Moderate
+59,Male,5.0,5.8,5.3,85.2,1.8,72.7,60.8,Moderate
+60,Male,6.0,7.7,5.9,73.7,1.1,62.9,61.8,Moderate
+61,Female,3.8,6.0,2.8,87.2,4.9,71.5,54.0,Moderate
+62,Male,4.2,7.8,4.4,97.3,2.5,92.9,64.5,Moderate
+63,Female,2.8,8.2,1.0,80.9,1.7,78.5,61.5,Moderate
+64,Male,2.7,6.2,2.7,86.0,2.8,64.1,50.1,Moderate
+65,Female,5.7,8.0,4.0,88.9,2.4,82.4,67.2,Healthy
+66,Female,6.5,7.4,2.3,78.0,2.2,63.1,70.6,Moderate
+67,Female,4.4,7.8,7.4,84.2,3.2,43.5,49.9,Needs Improvement
+68,Male,6.0,8.9,1.9,82.1,3.4,55.9,77.4,Healthy
+69,Male,5.0,6.8,3.7,83.0,1.9,45.6,45.4,Moderate
+70,Male,3.5,6.2,4.7,74.3,1.8,63.8,56.7,Moderate
+71,Female,5.0,6.1,7.1,82.2,2.2,68.2,62.4,Needs Improvement
+72,Male,6.8,6.2,1.9,87.0,0.5,88.1,66.9,Moderate
+73,Male,4.4,6.9,6.6,96.5,0.7,71.9,59.0,Needs Improvement
+74,Female,6.8,7.3,4.5,91.6,4.1,65.4,68.1,Moderate
+75,Male,1.0,7.3,2.7,100.0,4.5,78.0,44.8,Moderate
+76,Female,5.7,7.8,5.3,74.3,2.2,41.5,54.3,Moderate
+77,Male,4.6,7.0,4.9,90.7,3.2,70.8,55.5,Moderate
+78,Male,4.1,8.5,3.4,83.8,2.9,77.3,72.0,Moderate
+79,Female,4.6,6.7,4.6,100.0,6.2,50.3,61.8,Moderate
+80,Male,1.5,9.7,3.8,73.9,3.8,81.7,58.6,Moderate
+81,Female,4.2,7.6,4.7,73.6,2.3,72.1,61.1,Moderate
+82,Male,5.0,6.1,5.7,76.0,1.4,63.0,50.9,Moderate
+83,Male,6.7,5.9,7.4,60.8,0.6,75.6,57.6,Needs Improvement
+84,Female,3.7,7.5,2.3,76.7,2.7,95.0,66.0,Moderate
+85,Female,3.3,6.8,8.3,74.4,1.6,70.2,41.0,Needs Improvement
+86,Female,3.7,7.7,1.0,83.5,0.8,71.0,68.0,Moderate
+87,Male,5.9,7.5,4.2,85.4,1.7,62.5,65.2,Healthy
+88,Female,5.0,6.9,5.6,100.0,1.2,57.8,60.5,Moderate
+89,Male,3.7,6.2,5.0,91.5,4.5,78.0,59.4,Moderate
+90,Male,5.3,5.5,3.4,76.2,3.6,57.7,59.6,Needs Improvement
+91,Female,4.6,6.6,4.1,73.0,2.5,68.9,55.8,Moderate
+92,Male,6.0,7.9,3.6,86.9,4.3,62.3,72.6,Healthy
+93,Female,3.4,7.2,3.4,68.8,2.6,73.7,49.2,Moderate
+94,Male,4.0,5.8,6.0,100.0,1.5,72.0,60.9,Needs Improvement
+95,Male,3.9,7.2,5.1,93.8,4.3,80.5,62.4,Moderate
+96,Male,2.3,7.4,3.3,77.3,3.1,61.9,48.2,Moderate
+97,Female,4.9,6.1,6.1,64.9,1.3,64.8,55.0,Needs Improvement
+98,Female,4.9,7.2,5.1,95.5,2.3,56.3,54.9,Moderate
+99,Female,4.5,7.1,6.0,80.9,1.4,62.7,61.1,Moderate
+100,Female,4.1,5.9,5.6,94.4,0.8,72.5,57.6,Moderate
